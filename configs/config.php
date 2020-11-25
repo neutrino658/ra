@@ -19,7 +19,7 @@ $options = array (
   'notes_disable' => false,
   'upload_html_disable' => true,
   'myuploads_disable' => true,
-  'login' => true,
+  'login' => false,
   'users' => 
   array (
     '1' => '1',
