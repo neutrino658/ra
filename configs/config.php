@@ -24,7 +24,7 @@ $options = array (
   array (
     '1' => '1',
   ),
-  'template_used' => 'plugmod',
+  'template_used' => 'neatblue',
   'default_language' => 'en',
   'show_all' => true,
   'server_info' => false,
